@@ -21,6 +21,7 @@ A curated collection of Apache Airflow DAGs for automating, orchestrating, and a
 
 ## Getting Started
 
-1. **Clone the repository**
+**Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/finops-dags.git
+Copy DAG files into your Airflow dags/ directory or symlink the folder.
